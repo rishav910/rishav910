@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Rishav Saha
 - 👀 I’m interested in Software Development Role
 - 🌱 I’m currently learning Data Structures and Algorithms, Web Development
-- 💞️ I’m looking to collaborate on ...
 - 📫 You can mail me at rishavsaha37@gmail.com
 
 <!---
